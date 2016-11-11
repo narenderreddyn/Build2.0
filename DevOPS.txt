@@ -1,0 +1,64 @@
+jenkins: automation tool
+
+version controlling: git (centralised), svn (distributed) 
+clear case (not open source)
+
+unix, shell scripting, jenkins, aws, kpis (performance indicator), make file, bugzilla important
+
+chef & puppet
+prot a code kpi
+cyclomatic complexity
+
+
+
+10/30/2016
+
+SDLC
+
+Devops = development + operations
+agile methodology (trend)
+
+build tools for java - maven
+ant
+
+build automation tools 
+
+base scripts (shell, maven also)
+integrate these scripts in jenkins tools & run from it
+each integration is verified
+continous integration
+publish results -> watch code -> build code -> run tests -> publish result -> cyclic process
+
+devops tools
+CHEF - deployment purpose
+Puppet - " "
+docker - containership (version control, creates an image for development teams)
+Nagios - monitoring tool
+Surf - " "
+git - version controller
+AWS - web services (reduces cost if u start a new company)
+elasticsearch - search engine (searches the records)
+logstash - logs can be integrated
+kibana - front end
+scripting - maven build tools, python, ant we can use
+
+
+advantages in devops:
+faster time to market
+more focus on improving the business
+innovate faster
+better collaboration
+better quality
+more frequent releases
+
+amazon website uses devops
+
+ANT is a build tool
+MAVEN is advanced tool than ANT & is easier
+
+
+
+
+
+
+
